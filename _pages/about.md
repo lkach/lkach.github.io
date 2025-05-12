@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Physical oceanographer and postdoctoral fellow at NASA's Jet Propulsion Laboratory, working under [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2) and [Ben Hamlington](https://science.jpl.nasa.gov/people/bhamling/). I received my doctorate in oceanography at Scripps Institution of Oceanography (2016-2023),
+University of California, San Diego.
+I was supported for part of my studies by NASA through the [Future Investigators in NASA Earth and Space Science and Technology (FINESST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init) grant.
 
 A data-driven personal website
 ======

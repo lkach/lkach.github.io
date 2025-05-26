@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% files/CV_2025.pdf %}
+{% lkach.github.io/files/CV_2025.pdf %}
 
 Under construction.

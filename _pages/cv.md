@@ -9,4 +9,4 @@ redirect_from:
 
 {% lkach.github.io/files/CV_2025.pdf %}
 
-Under construction.
+Under construction...

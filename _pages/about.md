@@ -18,6 +18,6 @@ Research Interests
 Under construction (May 2025)
 
 
-For more info
+Website Information
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Under the MIT license, I am building this personal website from the template provided under the same license by the Academic Pages repository, which has a [guide](https://academicpages.github.io/markdown/) as well as a [wiki](https://github.com/academicpages/academicpages.github.io/wiki).

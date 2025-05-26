@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% lkach.github.io/files/CV_2025.pdf %}
+{% [lkach.github.io/files/CV_2025.pdf](https://lkach.github.io/files/CV_2025.pdf) %}
+
+https://lkach.github.io/files/CV_2025.pdf
 
 Under construction...

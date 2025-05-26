@@ -17,7 +17,9 @@ At SIO, I was fortunate enough to be advised by [Sarah Gille](http://pordlabs.uc
 
 Research Interests
 ======
-Under construction (May 2025)
+My research broadly focuses on the remote sensing of physical oceanographic phenomena. In my postdoc, I have been working towards validating SWOT against other observations, with one project focusing on steric height from in situ moorings, and another comparing currents derived from SWOT with surface currents from the coastal [HF radar network](https://cordc.ucsd.edu/projects/hfrnet/). [In grad school](https://escholarship.org/uc/item/3q94p7xw) I focused on questions about diurnal-and-faster coastal processes, such as “how predictable are tidal currents?” and “how coherent are diurnal currents and winds?”. Broadly, I’m interested in the complicated dynamics that exist near coasts and how much of that variability we can observe.
+
+
 
 
 Website Information

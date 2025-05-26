@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Website under development as of May 2025
+<!-- Website under development as of May 2025 -->
 
 I'm a physical oceanographer and postdoctoral fellow at NASA's Jet Propulsion Laboratory, working under [Jinbo Wang](https://science.jpl.nasa.gov/people/jwang2) and [Ben Hamlington](https://science.jpl.nasa.gov/people/bhamling/). I received my doctorate in oceanography at Scripps Institution of Oceanography (2016-2023),
 University of California, San Diego.

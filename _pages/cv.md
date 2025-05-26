@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% files/CV_2025.pdf %}
 
 Under construction
